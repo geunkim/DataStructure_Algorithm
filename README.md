@@ -15,13 +15,10 @@
 
 ## Greedy Algorithm (그리드 알고리즘)
 
-## Graph Algorithm I (그래프 알고리즘)
+## Graph Algorithm (그래프 알고리즘)
 
-## Graph Algorithm II (그래프 알고지즘)
+## Dynamic Programming (동적 계획법)
 
-## Dynamic Programming I (동적 계획법)
-
-## Dynamic Programming II (동적 계획법)
 
 
 
