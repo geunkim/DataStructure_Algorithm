@@ -31,6 +31,8 @@
 
 
 
-참고도서: 코딩테스트를 위한 자료구조와 알고리즘 with C++ (C++ Data Structures and Algorithm Desgin Principles)
+### 참고도서: 
+  - 코딩테스트를 위한 자료구조와 알고리즘 with C++ (C++ Data Structures and Algorithm Desgin Principles)
+  - 쓰면서 익히는 알고리즘과 자료구조 
 
 에제 파일 링크(https://github.com/gilbutITbook/080239)
