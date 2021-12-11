@@ -52,6 +52,8 @@
   - Coursera
   - Udemy.com
 
-[참고도서 1의 에제 파일 링크](https://github.com/gilbutITbook/080239)
+  - [참고도서 1의 에제 파일 링크](https://github.com/gilbutITbook/080239)
+  - Algorithm Design for Tech Interviews in [HIRED In Tech](https://hiredintech.com)
+
 
 
