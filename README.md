@@ -32,7 +32,21 @@
 
 
 ### 참고도서: 
-  - 코딩테스트를 위한 자료구조와 알고리즘 with C++ (C++ Data Structures and Algorithm Desgin Principles)
-  - 쓰면서 익히는 알고리즘과 자료구조 
+  1. 코딩테스트를 위한 자료구조와 알고리즘 with C++ (C++ Data Structures and Algorithm Desgin Principles)
+  2. 쓰면서 익히는 알고리즘과 자료구조 
 
-에제 파일 링크(https://github.com/gilbutITbook/080239)
+### 알고리즘 연습을 위한 노트 방법
+
+  - GitHub MarkDown
+  - StackEdit.io
+  - Anki Fashcard
+  
+### 알고리즘을 학습을 위한 사이트
+  - Google Interview university
+  - freeCodeCamp.org
+  - Coursera
+  - Udemy.com
+
+참고도서 1의 에제 파일 링크(https://github.com/gilbutITbook/080239)
+
+
