@@ -21,4 +21,3 @@
   - 컴퓨터 과학에서 알고리즘은 주어진 문재를 해결하기 위해 필요한 명령어 들의 집합인 컴퓨터 프로그램이다. 
   - 관련 동영상: [알고리즘이란 무엇이며, 왜 중요한가요?](https://ko.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms)
 
-* 알고리즘은 수천 년 전 부터 있었다. 수학에도 알고리즘이 많이 있고 우리의 일상 생활에도 알고리즘이 적용되고 있다. 초등학생이 여러 자릿수 수를 더할 때 사용하는 방법도 알고리즘이다.  
