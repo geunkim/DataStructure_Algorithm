@@ -1,6 +1,7 @@
 # 자료구조와 알고리즘 (C++)
 
 * [Introduction](./Introduction.md)
+* [C++ 기초](Basic_CPP.md)
 
 ## 자료구조와 알고리즘 관련 지식 목차
 
