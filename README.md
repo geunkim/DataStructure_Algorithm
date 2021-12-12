@@ -33,7 +33,7 @@
 ### 참고도서: 
   1. 코딩테스트를 위한 자료구조와 알고리즘 with C++ (C++ Data Structures and Algorithm Desgin Principles)
   2. 쓰면서 익히는 알고리즘과 자료구조
-  3. 알고리즘 산택: 수핵에서 제네릭 프로그래밍까지 (From Mathematics to Generic Programming)
+  3. 알고리즘 산책: 수학에서 제네릭 프로그래밍까지 (From Mathematics to Generic Programming)
 
 ### 알고리즘 연습을 위한 노트 방법
 
