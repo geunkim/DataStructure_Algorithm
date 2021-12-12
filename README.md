@@ -1,5 +1,7 @@
 # 자료구조와 알고리즘 (C++)
 
+1.[Introduction](./Introduction.md)
+
 ## 자료구조와 알고리즘 관련 지식 목차
 
 - 배열 (array)
@@ -31,6 +33,8 @@
   - freeCodeCamp.org
   - Coursera
   - Udemy.com
+
+### 참고 자료
 
   - [참고도서 1의 에제 파일 링크](https://github.com/gilbutITbook/080239)
   - Algorithm Design for Tech Interviews in [HIRED In Tech](https://hiredintech.com)
