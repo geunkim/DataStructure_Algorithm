@@ -18,7 +18,7 @@
 함수 객체는 직접적인 함수 호출에 비해 두 가지 장점을 가진다. 첫 번째 장점은 함수 객체에 상태를 포함할 수 있다는 점이고 두 번쨰 장점은 객체가 자료형이므로 템플릿 매개변수로 사용할 수 있다.
 
 ### 함수 객체 만들기 
-함수 객체를 만들기 위해서 다음과 같은 형식을 만들고 ```operator()```를 구현한다.
+함수 객체를 만들기 위해서 다음과 같은 형식을 만들고 ```operator()```를 구현한다. 
 
 ```c++
 class Functor{
@@ -41,7 +41,35 @@ int main(int argc, char const *argv[])
 ```
 ```f(a, b)```는 함수를 호출하는 것과 같으나 실제로 Functor 자료형의 ```()``` 연산자를 호출한 것이다. 
 
+다음 함수 객체 환율을 변환하는 함수 객체의 간단한 예이다. 객체 안에 포함되는 이름없는 함수를 선언할 때는 ```operator()``` 연산자를 사용하면 된다.
 
+```c++
+
+class converter{
+	double exchange_rate;
+
+public:
+	converter(double ex) : exchange_rate(ex) {}
+
+	double operator()(double amt) {
+		return amt * exchange_rate;
+	}
+};
+
+int main(int argc, char const *argv[])
+{
+	converter dollarToWon(1182);
+	double won = dollarToWon(100);   // dollar to won converter
+
+	cout << "won: " << won << endl;
+}
+
+```
+
+
+### 함수 객체 및 알고리즘 
+
+함수 객체의 다른 용도는 알고리즘이다. 
 
 ## 전제 조건, 사후 조건 그리고 assert 구문 
 
