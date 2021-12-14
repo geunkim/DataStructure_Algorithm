@@ -1,6 +1,6 @@
 # C++ Basic
 
-* [템플릿 함수(template function)](https://github.com/geunkim/CPPLecture/STL/functiontemplate.md)
+* [템플릿 함수(template function)](https://github.com/geunkim/CPPLecture/Telmplate/functionTemplate.md)
 
 
 
