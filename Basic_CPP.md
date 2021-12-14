@@ -12,7 +12,7 @@
 ## 선언 구문과 유형이 정해진 상수
 
 
-## [함수 객체 (function object)](github.com/geunkim/CPPLectures/Temporal/Function_Object.md)
+## [함수 객체 (function object)](https://github.com/geunkim/CPPLectures/Temporal/Function_Object.md)
 
 
 
