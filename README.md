@@ -19,7 +19,7 @@
 * [복잡도(Complexity)](./Complexity/Readme.md)
 * [그리드 알고리즘(Greedy algorithm)](./Greedy/Readme.md)
 * [동적 계획법(Dynamic programming)](./DP/Readme.md)
-* [정렬(sort)](./Sort/Readme.md)
+* [정렬(Sort)](./Sort/Readme.md)
 * [탐색(Search)](./Search/Readme.md)
 
 ## 자료구조와 알고리즘 관련 지식 목차
