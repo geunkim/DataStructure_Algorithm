@@ -17,7 +17,7 @@
 ## 알고리즘
 
 * [복잡도(Complexity)](./Complexity/Readme.md)
-* [분할 정복(Divided conqure)(./Divided/Readme.md)
+* [분할 정복(Divided conqure)](./Divided/Readme.md)
 * [그리드 알고리즘(Greedy algorithm)](./Greedy/Readme.md)
 * [동적 계획법(Dynamic programming)](./DP/Readme.md)
 * [정렬(Sort)](./Sort/Readme.md)
