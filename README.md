@@ -7,8 +7,8 @@
 
 * [리스트(List)](./List/Readme.md)
 * [스텍(Stack)](./Stack/Readme.md)
-* [큐(Queue](./Queue/Readme.md)
-* [이진트리](./Tree/Readme.md)
+* [큐(Queue)](./Queue/Readme.md)
+* [트리(Tree)](./Tree/Readme.md)
 * [힙(Heap)](./Heap/Readme.md)
 * [해시(Hash)](./Hash/Readme.md)
 * [그래프(Graph)](./Graph/Readme.md)
@@ -20,7 +20,7 @@
 * [그리드 알고리즘(Greedy algorithm)](./Greedy/Readme.md)
 * [동적 계획법(Dynamic programming)](./DP/Readme.md)
 * [정렬(sort)](./Sort/Readme.md)
-* [탐색(Search)](./Search/Readmd.md)
+* [탐색(Search)](./Search/Readme.md)
 
 ## 자료구조와 알고리즘 관련 지식 목차
 
