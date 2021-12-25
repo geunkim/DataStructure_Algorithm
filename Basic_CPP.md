@@ -14,7 +14,7 @@
 
 * 반복자와 구간 
 
-* C++ 11의 using을 이용한 유형 앨리어스와 유형 함수 
+* [C++ 11의 using을 이용한 자료형 별칭과 자료형 함수](https://github.com/geunkim/CPPLectures/blob/master/BasicProgramming/TypeAlias.md)
 
 * type alias와 type function
 
