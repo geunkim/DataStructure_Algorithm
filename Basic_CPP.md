@@ -16,11 +16,7 @@
 
 * [C++ 11의 using을 이용한 자료형 별칭과 자료형 함수](https://github.com/geunkim/CPPLectures/blob/master/BasicProgramming/TypeAlias.md)
 
-* type alias와 type function
-
-
 * C++ 11의 리스트 초기화
-
 
 * C+11 람다 함수 
 
