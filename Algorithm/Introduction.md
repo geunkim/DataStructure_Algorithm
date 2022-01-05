@@ -65,4 +65,4 @@ int reculsive_gcd(int x, int y){
 알고리즘은 문제를 해결하는 처리 절차로 실행하는 수단과는 관계가 없어서 복잡한 알고리즘아라도 손으로 직접 실행할 수 있다. 
 컴퓨터 이전의 알고리즘으로 바
 
-![img](./ybc7289-4.jpeg)
+<img src="./ybc7289-4.jpeg" width="100" height+"100">
