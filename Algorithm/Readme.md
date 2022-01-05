@@ -34,4 +34,28 @@
 5. 다시 2번으로 돌아간다.
 ```
 
+유클리드 호제법을 C++ 프로그램 언어로 표현한 함수의 예는 다음과 같다.
+```c++
+//
+// 반복문을 활용한 유클리드 호제법을 이용한 최대 공약수 구하는 함수 
+//
+int gcd(int dividend, int divider){
+	int residual = dividend % divider;
+
+	while(residual != 0) {
+		dividend = divider;
+		divider = residual;
+		residual = dividend % divider;
+	}
+	return divider;
+}
+````
+
+```c+
+int reculsive_gcd(int x, int y){
+	if(y == 0)
+		return x;
+	else return reculsive_gcd(y, x%y);
+}
+```
 
