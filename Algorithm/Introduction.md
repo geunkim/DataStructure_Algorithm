@@ -83,3 +83,6 @@ int reculsive_gcd(int x, int y){
 
 ## 알고리즘 설계와 실행의 차이 
 
+알고리즘은 
+
+
